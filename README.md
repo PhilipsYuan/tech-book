@@ -39,5 +39,8 @@ version 1.0
     <tr>
         <td>深入理解ES6翻译完整版</td>
     </tr>
+    <tr>
+        <td>css 揭秘</td>
+    </tr>    
     </tbody>
 </table>
